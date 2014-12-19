@@ -9,6 +9,9 @@ body {
   height: 300px;
   width: auto;
 }
+.floatright {
+  float:right;
+}
 ul {
   text-align: left;
   display: inline;
