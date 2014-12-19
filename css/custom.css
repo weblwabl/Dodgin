@@ -5,7 +5,10 @@ body {
   text-align: center;
   background: #E3CAA1;
 }
-
+.Slides {
+  height: 300px;
+  width: auto;
+}
 ul {
   text-align: left;
   display: inline;
