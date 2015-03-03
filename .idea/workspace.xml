@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccd254a4-2661-4f43-bf04-3cfc9ba5fbb1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/Thumbs.db" afterPath="$PROJECT_DIR$/css/images/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/Slides/Thumbs.db" afterPath="$PROJECT_DIR$/css/images/Slides/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/airlines/Thumbs.db" afterPath="$PROJECT_DIR$/css/images/airlines/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/facilities/Thumbs.db" afterPath="$PROJECT_DIR$/css/images/facilities/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/gallery/Thumbs.db" afterPath="$PROJECT_DIR$/css/images/gallery/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons/Thumbs.db" afterPath="$PROJECT_DIR$/css/images/icons/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/rooms/Thumbs.db" afterPath="$PROJECT_DIR$/css/images/rooms/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ccd254a4-2661-4f43-bf04-3cfc9ba5fbb1" name="Default" comment="" />
     <ignored path="Dodgin.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -38,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43198803" vertical-offset="1479" max-vertical-offset="4352">
-              <caret line="104" column="8" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.83856505" vertical-offset="1479" max-vertical-offset="4352">
+              <caret line="120" column="6" selection-start-line="120" selection-start-column="6" selection-end-line="120" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#blockquote#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#blockquote#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -85,8 +75,8 @@
       <file leaf-file-name="sponsor.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sponsor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1989" max-vertical-offset="3349">
-              <caret line="139" column="6" selection-start-line="139" selection-start-column="6" selection-end-line="139" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1921" max-vertical-offset="3281">
+              <caret line="135" column="6" selection-start-line="135" selection-start-column="6" selection-end-line="135" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -816,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sponsor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1989" max-vertical-offset="3349">
-          <caret line="139" column="6" selection-start-line="139" selection-start-column="6" selection-end-line="139" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1921" max-vertical-offset="3281">
+          <caret line="135" column="6" selection-start-line="135" selection-start-column="6" selection-end-line="135" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -833,8 +823,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43198803" vertical-offset="1479" max-vertical-offset="4352">
-          <caret line="104" column="8" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.83856505" vertical-offset="1479" max-vertical-offset="4352">
+          <caret line="120" column="6" selection-start-line="120" selection-start-column="6" selection-end-line="120" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#blockquote#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#blockquote#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
